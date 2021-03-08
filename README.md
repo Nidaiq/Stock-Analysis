@@ -30,9 +30,9 @@ According to *Quora*, the advantages of refractoring a code is that it can boost
 The disadvantages of refractoring is that it takes time to do so and sometimes it is easier to new code from scratch than to refractor it (1).
 
 ### Pros and cons apply to refactoring the original VBA script
-Pros for refractoring the current VBA code was that the code can run more efficiently.  The original code had nested loops which means the loop goes through the data set for all the rows, which is 3012 rows for the current data set.  When refractored code had only two For Loops which reduces the processing time drastically.  When compairing images *Run-time-OriginalVBA-2017* and *Run-time-RefractorVBA-2017* it can be seen that the refractored code is 8.7 times faster than the original code.  Similarly it is evident from images *Run-time-OriginalVBA-2018* and *Run-time-RefractorVBA-2018* in the *Resources* folder, that the refractored code is 8.5 times faster than the orginal code.
+Pros for refractoring the current VBA code was that the code can run more efficiently.  The original code had nested loops which means the loop goes through the data set for all the rows, which is 3012 rows for the current data set.  When refractored code had only two For Loops which reduces the processing time drastically.  When compairing images *VBA_Original_2017* and *VBA_Challenge_2017* it can be seen that the refractored code is 8.7 times faster than the original code.  Similarly it is evident from images *VBA_Original_2018* and *VBA_Challenge_2018* in the *Resources* folder, that the refractored code is 8.5 times faster than the orginal code.
 
-Cons of refractoring the original code was that incase Steve does not need to use it for other stocks, that time could have been saved.
+Cons of refractoring the original code was that in the case that Steve does not need to use it for other stocks, that time could have been saved.
 
 ## Recommendations
 Upon analysis it is recommended that if Steve needs to pick a solar energy stock it should be the stock RUN, as there is a steady increase in their daily volume and returns from 2017 to 2018 which shows growth of a company.  Even though the rate of returned shows a decline for ENPH between the year 2017 to 2018, the daily volume of that stock has increased.  Steve may need to do more research on the policies and investores within the company to make a more informed decision.
@@ -41,5 +41,5 @@ If Steve decides to run a larger dataset, he should definitely use the refractor
 
 It is recommended that Steve's parents broaden their portfolio with other stocks using the new refractored VBA script.  
 
-## References
+## Reference
 (1)What are the pros and cons of refractoring?.*Quora*.  Accessed on March 6, 2021.  https://www.quora.com/What-are-the-pros-and-cons-of-refactoring
