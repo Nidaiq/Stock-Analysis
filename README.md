@@ -39,7 +39,7 @@ Upon analysis it is recommended that if Steve needs to pick a solar energy stock
 
 If Steve decides to run a larger dataset, he should definitely use the refractored VBA script.
 
-It is recommended that Steve's parents broaden their portfolio with other stocks using the new Refractored VBA script.  
+It is recommended that Steve's parents broaden their portfolio with other stocks using the new refractored VBA script.  
 
 ## References
 (1)What are the pros and cons of refractoring?.*Quora*.  Accessed on March 6, 2021.  https://www.quora.com/What-are-the-pros-and-cons-of-refactoring
