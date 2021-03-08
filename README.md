@@ -21,7 +21,7 @@ Looking closely at the other options for solar panel stocks presented to Steve, 
 
 It is important to note that daily volume for ENPH and RUN was 2.7 and 1.8 times more respectively, in 2018 than in 2017.  ENPH stock had a return of 129.5% and 81.4% in 2017 and 2018 respectively. RUN's stock had returns of 5.5% and 84.0% for years 2017 and 2018 respectively.  
 
-## Results and Summary of Refractoring 
+## Results and Summary of Refactoring 
 Images *"AllStockAnalysis"-OriginalVBA-NestedForLoop.png* and *"All Stock Analysis"-Refactor VBA -For Loops Only.png* in the *Resources* folder show the differences between the codes.  In the original code there is one for loop and a nested loop, the code runs through 3012 lines before going back into another ticker index in the original code.  In the refactored code there are two For Loops that are used to run the code.
 
 ### Advantages and disadvantage of refactoring code in general
